@@ -1,0 +1,7 @@
+I:\University\OOP\OOP_LB4.1\OOP_LB4.1\bin\Debug\OOP_LB4.1.exe.config
+I:\University\OOP\OOP_LB4.1\OOP_LB4.1\bin\Debug\OOP_LB4.1.exe
+I:\University\OOP\OOP_LB4.1\OOP_LB4.1\bin\Debug\OOP_LB4.1.pdb
+I:\University\OOP\OOP_LB4.1\OOP_LB4.1\obj\Debug\OOP_LB4.1.csproj.AssemblyReference.cache
+I:\University\OOP\OOP_LB4.1\OOP_LB4.1\obj\Debug\OOP_LB4.1.csproj.CoreCompileInputs.cache
+I:\University\OOP\OOP_LB4.1\OOP_LB4.1\obj\Debug\OOP_LB4.1.exe
+I:\University\OOP\OOP_LB4.1\OOP_LB4.1\obj\Debug\OOP_LB4.1.pdb
