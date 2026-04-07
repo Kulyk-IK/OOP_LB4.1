@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{C934CD46-CB83-4594-A6B6-9870E7B94364}|Test\\Test.csproj|solutionrelative:test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4C2A3739-245D-4CD3-BDFB-AEC5F8E83253}|OOP_LB4.1\\OOP_LB4.1.csproj|I:\\University\\OOP\\OOP_LB4.1\\oop_lb4.1\\trapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2A3739-245D-4CD3-BDFB-AEC5F8E83253}|OOP_LB4.1\\OOP_LB4.1.csproj|solutionrelative:oop_lb4.1\\trapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2A3739-245D-4CD3-BDFB-AEC5F8E83253}|OOP_LB4.1\\OOP_LB4.1.csproj|I:\\University\\OOP\\OOP_LB4.1\\oop_lb4.1\\righttriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2A3739-245D-4CD3-BDFB-AEC5F8E83253}|OOP_LB4.1\\OOP_LB4.1.csproj|solutionrelative:oop_lb4.1\\righttriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C2A3739-245D-4CD3-BDFB-AEC5F8E83253}|OOP_LB4.1\\OOP_LB4.1.csproj|I:\\University\\OOP\\OOP_LB4.1\\oop_lb4.1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C2A3739-245D-4CD3-BDFB-AEC5F8E83253}|OOP_LB4.1\\OOP_LB4.1.csproj|solutionrelative:oop_lb4.1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +23,12 @@
       "RelativeMoniker": "D:0:0:{4C2A3739-245D-4CD3-BDFB-AEC5F8E83253}|OOP_LB4.1\\OOP_LB4.1.csproj|solutionrelative:oop_lb4.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C2A3739-245D-4CD3-BDFB-AEC5F8E83253}|OOP_LB4.1\\OOP_LB4.1.csproj|I:\\University\\OOP\\OOP_LB4.1\\oop_lb4.1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C2A3739-245D-4CD3-BDFB-AEC5F8E83253}|OOP_LB4.1\\OOP_LB4.1.csproj|solutionrelative:oop_lb4.1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4C2A3739-245D-4CD3-BDFB-AEC5F8E83253}|OOP_LB4.1\\OOP_LB4.1.csproj|I:\\University\\OOP\\OOP_LB4.1\\oop_lb4.1\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C2A3739-245D-4CD3-BDFB-AEC5F8E83253}|OOP_LB4.1\\OOP_LB4.1.csproj|solutionrelative:oop_lb4.1\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C2A3739-245D-4CD3-BDFB-AEC5F8E83253}|OOP_LB4.1\\OOP_LB4.1.csproj|I:\\University\\OOP\\OOP_LB4.1\\oop_lb4.1\\righttriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C2A3739-245D-4CD3-BDFB-AEC5F8E83253}|OOP_LB4.1\\OOP_LB4.1.csproj|solutionrelative:oop_lb4.1\\righttriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C2A3739-245D-4CD3-BDFB-AEC5F8E83253}|OOP_LB4.1\\OOP_LB4.1.csproj|i:\\university\\oop\\oop_lb4.1\\oop_lb4.1\\trapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C2A3739-245D-4CD3-BDFB-AEC5F8E83253}|OOP_LB4.1\\OOP_LB4.1.csproj|solutionrelative:oop_lb4.1\\trapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C2A3739-245D-4CD3-BDFB-AEC5F8E83253}|OOP_LB4.1\\OOP_LB4.1.csproj|I:\\University\\OOP\\OOP_LB4.1\\oop_lb4.1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2A3739-245D-4CD3-BDFB-AEC5F8E83253}|OOP_LB4.1\\OOP_LB4.1.csproj|solutionrelative:oop_lb4.1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,78 +55,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Trapezoid.cs",
               "DocumentMoniker": "I:\\University\\OOP\\OOP_LB4.1\\OOP_LB4.1\\Trapezoid.cs",
               "RelativeDocumentMoniker": "OOP_LB4.1\\Trapezoid.cs",
               "ToolTip": "I:\\University\\OOP\\OOP_LB4.1\\OOP_LB4.1\\Trapezoid.cs",
               "RelativeToolTip": "OOP_LB4.1\\Trapezoid.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-06T15:40:11.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "RightTriangle.cs",
               "DocumentMoniker": "I:\\University\\OOP\\OOP_LB4.1\\OOP_LB4.1\\RightTriangle.cs",
               "RelativeDocumentMoniker": "OOP_LB4.1\\RightTriangle.cs",
               "ToolTip": "I:\\University\\OOP\\OOP_LB4.1\\OOP_LB4.1\\RightTriangle.cs",
               "RelativeToolTip": "OOP_LB4.1\\RightTriangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-06T15:39:23.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Circle.cs",
               "DocumentMoniker": "I:\\University\\OOP\\OOP_LB4.1\\OOP_LB4.1\\Circle.cs",
               "RelativeDocumentMoniker": "OOP_LB4.1\\Circle.cs",
               "ToolTip": "I:\\University\\OOP\\OOP_LB4.1\\OOP_LB4.1\\Circle.cs",
               "RelativeToolTip": "OOP_LB4.1\\Circle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-06T15:38:16.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "I:\\University\\OOP\\OOP_LB4.1\\OOP_LB4.1\\Rectangle.cs",
               "RelativeDocumentMoniker": "OOP_LB4.1\\Rectangle.cs",
               "ToolTip": "I:\\University\\OOP\\OOP_LB4.1\\OOP_LB4.1\\Rectangle.cs",
               "RelativeToolTip": "OOP_LB4.1\\Rectangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-06T15:34:51.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Figure.cs",
               "DocumentMoniker": "I:\\University\\OOP\\OOP_LB4.1\\OOP_LB4.1\\Figure.cs",
               "RelativeDocumentMoniker": "OOP_LB4.1\\Figure.cs",
               "ToolTip": "I:\\University\\OOP\\OOP_LB4.1\\OOP_LB4.1\\Figure.cs",
               "RelativeToolTip": "OOP_LB4.1\\Figure.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-06T15:30:34.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "I:\\University\\OOP\\OOP_LB4.1\\OOP_LB4.1\\Program.cs",
               "RelativeDocumentMoniker": "OOP_LB4.1\\Program.cs",
               "ToolTip": "I:\\University\\OOP\\OOP_LB4.1\\OOP_LB4.1\\Program.cs",
               "RelativeToolTip": "OOP_LB4.1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-06T15:29:23.91Z",
               "EditorCaption": ""
